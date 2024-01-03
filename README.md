@@ -9,6 +9,6 @@ I'm delving deeper into K8s.
 My goal is to leverage cutting-edge technologies to enhance software development and deployment, contributing to seamless operations and rapid delivery cycles.
 
 ## 💬 Get in Touch
-Feel free to reach out to discuss DevOps strategies, automation, or collaboration opportunities. You can connect with me on [LinkedIn](dhanesh-kumar-3829227b) or shoot me an email at dhanupreeth@gmail.com.
+Feel free to reach out to discuss DevOps strategies, automation, or collaboration opportunities. You can connect with me on [LinkedIn](https://www.linkedin.com/in/dhanesh-kumar-3829227b/) or shoot me an email at dhanupreeth@gmail.com.
 
 Excited to connect and share insights! 😊
